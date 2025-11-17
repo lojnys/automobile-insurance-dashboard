@@ -61,6 +61,6 @@ The goal of this projet is to showcase practical skills in SQL schema design, da
 
 ## Relational Database Design
 
-![](/Users/yushinnam/Projects/automobile-insurance-dashboard/docs/img/ER-Diagram.png)
+![ER Diagram](/Users/yushinnam/Projects/automobile-insurance-dashboard/docs/img/ER-Diagram.png)
 
 
